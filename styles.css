@@ -1,0 +1,12 @@
+
+section.top-page {
+background: url('../GOMYCODE/logo.png');
+}
+nav.nav {
+display: flex;
+}
+header.header {
+display: flex;
+align-items: center;
+background-color: white;
+}
